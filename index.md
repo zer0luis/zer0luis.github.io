@@ -1,4 +1,4 @@
-[Español](./index_esp.md).
+[Español](./index_esp.md)
 
 # Content
 

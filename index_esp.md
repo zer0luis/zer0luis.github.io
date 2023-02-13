@@ -1,4 +1,4 @@
-[English](./index.md).
+[English](./index.md)
 
 # Contenido
 
