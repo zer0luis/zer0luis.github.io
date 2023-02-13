@@ -1,2 +1,8 @@
 # zer0luis.github.io
-My security blog, reversing, malware analysis, pentesting and more!
+Welcome to my security blog:
+
+- Reversing
+- Malware analysis
+- Pentesting
+- Binary Exploitation
+- And more!
